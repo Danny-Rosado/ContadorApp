@@ -1,0 +1,1 @@
+·Aplicaciòn contador manual
